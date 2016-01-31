@@ -24,3 +24,8 @@ $ eog voltmeter.png  # View results
 ## Samples
 ![voltmeter](/images/voltmeter.png)
 ![cannon](/images/cannon.png)
+
+
+## Resources
+- http://greg.czerniak.info/guides/kalman1/
+- http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/#mjx-eqn-kalpredictfull
