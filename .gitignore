@@ -1,0 +1,5 @@
+*.pyc
+*.png
+kalman/
+
+!images/*.png
